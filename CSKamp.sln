@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSKamp", "CSKamp\CSKamp.csproj", "{92F5B6D6-7A23-4EBD-B29E-6C74E6DF3A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSKamp_02", "CSKamp_02\CSKamp_02.csproj", "{606DBE16-F20C-4E48-8F89-23D4038A513E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSKamp_03", "CSKamp_03\CSKamp_03.csproj", "{54089357-3866-4EBC-8E65-F7429FB0DB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F5B6D6-7A23-4EBD-B29E-6C74E6DF3A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F5B6D6-7A23-4EBD-B29E-6C74E6DF3A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F5B6D6-7A23-4EBD-B29E-6C74E6DF3A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F5B6D6-7A23-4EBD-B29E-6C74E6DF3A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606DBE16-F20C-4E48-8F89-23D4038A513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606DBE16-F20C-4E48-8F89-23D4038A513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606DBE16-F20C-4E48-8F89-23D4038A513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606DBE16-F20C-4E48-8F89-23D4038A513E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54089357-3866-4EBC-8E65-F7429FB0DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54089357-3866-4EBC-8E65-F7429FB0DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54089357-3866-4EBC-8E65-F7429FB0DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54089357-3866-4EBC-8E65-F7429FB0DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949D3E5B-9EEE-4287-8E71-F670243D28E7}
+	EndGlobalSection
+EndGlobal
